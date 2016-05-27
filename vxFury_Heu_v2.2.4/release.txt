@@ -1,0 +1,19 @@
+v2.2.4
+1.combine SWP and ATS
+
+v2.2.3
+1.faster 'contains'(replace "constraint.getExcludedLinkList.contains(link)" with "constraint.containsLinks(link)" which uses tips : bit-Mask)(LinkList -> ArrayList)
+
+v2.2.2
+1.fix some bugs
+2.SBPP
+
+v2.2.1
+1.dynamic routing using depth-first-serach algorithm(M:1)
+
+v2.1.x
+1.develop ATS-based RSA algorithm
+2.spectrum allocation for static route
+
+note :
+v1.x.x SWP-based RSA algorithm
